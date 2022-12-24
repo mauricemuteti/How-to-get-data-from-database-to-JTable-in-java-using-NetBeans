@@ -2,6 +2,8 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ * https://mauricemuteti.info/how-to-get-data-from-database-to-jtable-in-java-using-netbeans/
+ * How to get data from database to JTable in java using NetBeans
  */
 
 import java.sql.Connection;
